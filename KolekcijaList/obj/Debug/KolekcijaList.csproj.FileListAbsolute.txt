@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\KolekcijaList\KolekcijaList\bin\Debug\KolekcijaList.exe.config
+C:\Users\PC\source\repos\KolekcijaList\KolekcijaList\bin\Debug\KolekcijaList.exe
+C:\Users\PC\source\repos\KolekcijaList\KolekcijaList\bin\Debug\KolekcijaList.pdb
+C:\Users\PC\source\repos\KolekcijaList\KolekcijaList\obj\Debug\KolekcijaList.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\KolekcijaList\KolekcijaList\obj\Debug\KolekcijaList.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\KolekcijaList\KolekcijaList\obj\Debug\KolekcijaList.Form1.resources
+C:\Users\PC\source\repos\KolekcijaList\KolekcijaList\obj\Debug\KolekcijaList.Properties.Resources.resources
+C:\Users\PC\source\repos\KolekcijaList\KolekcijaList\obj\Debug\KolekcijaList.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\KolekcijaList\KolekcijaList\obj\Debug\KolekcijaList.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\KolekcijaList\KolekcijaList\obj\Debug\KolekcijaList.exe
+C:\Users\PC\source\repos\KolekcijaList\KolekcijaList\obj\Debug\KolekcijaList.pdb
